@@ -1,1 +1,3 @@
-# simple_pytorch_projects
+# Pytorch simple project notebooks
+
+- [FashionMNIST]()
